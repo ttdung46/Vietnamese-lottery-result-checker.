@@ -1,1 +1,1 @@
-# Vietnamese-lottery-result-checker.
+# Vietnamese-lottery-result-checker
